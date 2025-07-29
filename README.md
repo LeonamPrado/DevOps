@@ -36,20 +36,6 @@ Antes de começar, certifique-se de que você tem as seguintes ferramentas insta
 * [Terraform CLI](https://developer.hashicorp.com/terraform/downloads)
 * [AWS CLI](https://aws.amazon.com/cli/) com suas credenciais configuradas (`aws configure`)
 
-### Instalação
-
-1.  Clone o repositório para a sua máquina local:
-    ```sh
-    git clone [https://github.com/](https://github.com/)[SEU_USUARIO_GITHUB]/[NOME_DO_SEU_REPOSITORIO].git
-    ```
-2.  Navegue até o diretório do projeto:
-    ```sh
-    cd [NOME_DO_SEU_REPOSITORIO]
-    ```
-3.  Instale todas as dependências do Node.js:
-    ```sh
-    npm install
-    ```
 
 ### Comandos Úteis
 
